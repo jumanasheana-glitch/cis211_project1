@@ -55,8 +55,7 @@ if page == '🏠 Home':
             ''')
   with col2:
     # Placeholder for image
-    st.image('https://raw.githubusercontent.com/avinashjairam/cis211_project1/refs/heads/main/grumpy_cat.jfif', use_column_width=True)
-  
+    st.image ('https://github.com/jumanasheana-glitch/CIS-211_Project_1/blob/f9c121f04b65037a835a127ef5e5a895aaa6b382/funny%20cat.jpg')
 
 
 
